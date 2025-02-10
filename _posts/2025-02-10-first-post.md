@@ -9,3 +9,4 @@ tags:
 ---
 
 let's see if this worked. i sure hope it did
+here's a link to the [welcome post]({% post_url 2019-04-18-welcome-to-jekyll %}).
