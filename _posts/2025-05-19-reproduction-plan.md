@@ -7,8 +7,7 @@ tags:
   - reproduction
   - hazards
   - incarceration
-reproduction repository: https://github.com/padutchfan123/tuholske-et-al-reproduction
-origional study: https://doi.org/10.1038/s41893-024-01293-y
+link: https://github.com/padutchfan123/tuholske-et-al-reproduction
 ---
 
 I am interested in reproducing
@@ -20,17 +19,4 @@ I am interested in reproducing
 
 because I am interested in how geospatial analysis can be used demonstrate harm and be used in broader struggles for justice. By reproducing this study, I hope to gain experience working with environmental justice and incarceration data.
 
-Here is a link to our repository!
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Here is a [link][https://github.com/padutchfan123/tuholske-et-al-reproduction] to our github repository!

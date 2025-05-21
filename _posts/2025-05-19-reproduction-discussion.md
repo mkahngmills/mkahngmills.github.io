@@ -1,15 +1,17 @@
 ---
-title: "Post: Link"
+title: "Reproduction Study Discussion"
+date: 2025-05-19T21:00:30-04:00
 categories:
   - Blog
 tags:
-  - link
-  - Post Formats
-link: https://github.com
+  - reproduction
+  - hazards
+  - incarceration
+link: https://github.com/padutchfan123/tuholske-et-al-reproduction
 ---
 
-This theme supports **link posts**, made famous by John Gruber. To use, just add `link: http://url-you-want-linked` to the post's YAML front matter and you're done.
+Through reproducing [Tuholske et al. study][https://www.nature.com/articles/s41893-024-01293-y#Sec2], I learned about study design, working with climate raster and carceral facility data, iteration of data anlysis on large, multi-file datasets, and more!
 
-> And this is how a quote looks.
+While we were unable to replicate the full study, I was able to achieve a grasp of the exploratory study design, new r packages and techniques, and best practices for open science.
 
-Some [link](#) can also be shown.
+Most importantly, however, are the friends we made along the way. Big thank you to [Sam Barnard][https://padutchfan123.github.io/] for working with me on this project. Additionally, we had the opportunity to poke around the author's website and learn about other [collaborations][https://sparklabnyc.github.io/site/home.html] and researchers in the field of geospatial science and public health.
