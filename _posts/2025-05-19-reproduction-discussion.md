@@ -7,7 +7,6 @@ tags:
   - reproduction
   - hazards
   - incarceration
-link: https://github.com/padutchfan123/tuholske-et-al-reproduction
 ---
 
 Through reproducing [Tuholske et al. study](https://www.nature.com/articles/s41893-024-01293-y#Sec2), I learned about study design, working with climate raster and carceral facility data, iteration of data anlysis on large, multi-file datasets, and more!
