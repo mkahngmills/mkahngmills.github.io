@@ -7,7 +7,6 @@ tags:
   - reproduction
   - hazards
   - incarceration
-link: https://github.com/padutchfan123/tuholske-et-al-reproduction
 ---
 
 I am interested in reproducing
@@ -19,4 +18,4 @@ I am interested in reproducing
 
 because I am interested in how geospatial analysis can be used demonstrate harm and be used in broader struggles for justice. By reproducing this study, I hope to gain experience working with environmental justice and incarceration data.
 
-Here is a [link][https://github.com/padutchfan123/tuholske-et-al-reproduction] to our github repository!
+Here is a [link](https://github.com/padutchfan123/tuholske-et-al-reproduction) to our github repository!

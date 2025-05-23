@@ -7,10 +7,9 @@ tags:
   - COVID-19
   - Disability
   - reproduction
-link: https://github.com/mkahngmills/Mills_RPr-Chakraborty-2021
 ---
 
-In this project, we attempted to reproduce
+In [this project](https://github.com/mkahngmills/Mills_RPr-Chakraborty-2021), we attempted to reproduce
 
 > Chakraborty, J.
 > 2021.
